@@ -171,6 +171,12 @@
     <Resource Include="Images\logo_sel.png" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="ini-parser">
+      <Version>2.5.2</Version>
+    </PackageReference>
+    <PackageReference Include="Ionic.Zip">
+      <Version>1.9.1.8</Version>
+    </PackageReference>
     <PackageReference Include="System.ValueTuple">
       <Version>4.6.1</Version>
     </PackageReference>
